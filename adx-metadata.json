@@ -1,1 +1,27 @@
-{ "name": "AutoDex Token", "symbol": "ADX", "description": "The native utility token for the AutoDex decentralized P2P exchange, enabling automated swaps, staking, and rewards.", "image": "https://github.com/Cedexxch/autodox-metadata/blob/main/assets/adx-logo.png", "attributes": [ { "trait_type": "Platform", "value": "Solana" }, { "trait_type": "Token Type", "value": "SPL" }, { "trait_type": "Launch Year", "value": "2025" } ] }
+{
+  "name": "AutoDex Token",
+  "symbol": "ADX",
+  "description": "The utility and governance token for the AutoDEX platform.",
+  "image": "https://github.com/Cedexxch/autodox-metadata/blob/main/assets/adx-logo.png",
+  "seller_fee_basis_points": 0,
+  "attributes": [
+    { "trait_type": "Platform", "value": "AutoDEX" },
+    { "trait_type": "Use Case", "value": "Governance, Staking, Fees" }
+  ],
+  "collection": { "name": "AutoDEX Collection", "family": "AutoDEX" },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "2FXu45X6cv9hDwFv5pQtSJ4NDsfHUcx3gwyfiFn49ahY",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://github.com/Cedexxch/autodox-metadata/blob/main/adx-metadata.json",
+        "type": "image/png"
+      }
+    ]
+  }
+}
