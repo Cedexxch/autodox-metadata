@@ -2,7 +2,7 @@
   "name": "AutoDex Token",
   "symbol": "ADX",
   "description": "The utility and governance token for the AutoDEX platform.",
-  "image": "https://raw.githubusercontent.com/Cedexxch/autodox-metadata/refs/heads/main/assets/adx-logo.png",
+  "image": "https://raw.githubusercontent.com/Cedexxch/autodox-metadata/main/assets/adx-logo.png",
   "seller_fee_basis_points": 0,
   "attributes": [
     { "trait_type": "Platform", "value": "AutoDEX" },
